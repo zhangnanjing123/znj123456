@@ -9,4 +9,8 @@ rrr
 ttt
 yyy
 uuu
+<<<<<<< HEAD
 pppp
+=======
+ooo
+>>>>>>> znj
